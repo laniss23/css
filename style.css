@@ -4,11 +4,15 @@ body {
   
   h1 {
     color: blueviolet;
-    text-align: center;
   }
   
-  p {
-    color:grey;
+  .center {
+    text-align: center;
+  }
+  .cor{
+    color: gray;
+  }
+  #para {
     font-family: verdana;
     font-size: 20px;
   }
