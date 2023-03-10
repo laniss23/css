@@ -1,17 +1,22 @@
 body {
-    background-color: ghostwhite;
+    background-color: hsl(240, 27%, 96%);
   }
   
   h1 {
     color: blueviolet;
+    background-color: lavender;
+    border: 2px solid lightblue;
+    border-radius: 20px;
+    text-shadow: 2px 2px 4px plum;
   }
-  
+  /*classes- isso é um comentario*/
   .center {
     text-align: center;
   }
   .cor{
     color: gray;
   }
+  /*id*/
   #para {
     font-family: verdana;
     font-size: 20px;
