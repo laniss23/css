@@ -1,5 +1,7 @@
 body {
     background-image: url("img/fundo3.jpg");
+    background-repeat: no-repeat;
+    font-family: "Sofia";
   }
   
   h1 {
@@ -8,7 +10,7 @@ body {
     
     border: 2px double lightblue;
     border-radius: 20px;
-    text-shadow: 2px 2px 4px plum;
+    text-shadow: 3px 3px 5px plum;
     padding-top: 5px;
     padding-bottom: 5px;
   }
@@ -26,4 +28,13 @@ body {
     margin-right: 30px;
     font-family: verdana;
     font-size: 20px;
+  }
+  .link {
+    text-align: center;
+    font-size: small;
+  }
+  .link a {
+    text-decoration: none;
+    color: blue;
+    text-shadow: 3px 3px 5px purple;
   }
